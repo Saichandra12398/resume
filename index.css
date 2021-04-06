@@ -1,0 +1,52 @@
+.links{
+    /* font-size: 200px; */
+    text-decoration:none ;
+    color: black;
+    font-size: 15px;
+    
+}
+
+.headings1{
+    /* font-size: 40px; */
+}
+.links:hover{
+    color: red
+}
+
+.profilepic{
+    position:relative;
+    border: 1px solid black;
+    
+}
+
+body{
+    border: 5px solid black;
+}
+
+.firstdiv{
+    /*background-color:aqua;*/
+    /* font-size: px; */
+}
+
+.career{
+    border: 1px solid black;
+}
+
+.strengths{
+    border: 1px solid black;
+}
+.hobby{
+    border: 1px solid black;
+}
+.personals{
+   
+    /* border: 1px solid black; */
+    position: absolute;
+    font-weight:100;
+    /* @media (min-height:500) {
+        font: size 12px;
+    } */
+    font-size: 18px;
+    top: 20%;
+    left: 30%;
+}

@@ -1,0 +1,74 @@
+.links{
+  /* font-size: 200px; */
+  text-decoration:none ;
+  color: black;
+  font-size: 15px;
+  
+}
+
+.headings1{
+  /* font-size: 40px; */
+}
+.links:hover{
+  color: red
+}
+
+.profilepic{
+  border: 1px solid black;
+}
+
+body{
+  border: 5px solid black;
+}
+
+.firstdiv{
+  /*background-color:aqua;*/
+  /* font-size: px; */
+}
+
+.career{
+  border: 1px solid black;
+}
+
+.strengths{
+  border: 1px solid black;
+}
+.hobby{
+  border: 1px solid black;
+}
+.personals{
+  /* border: 1px solid black; */
+  position: absolute;
+  font-weight:100;
+  font-size: 18px;
+  top: 20%;
+  left: 30%;
+}
+
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+  border: 2px solid black;
+  border-radius: 5px 5px 5px 5px;
+  width: 100%; /* Full width */
+  background-color: #ddd; /* Grey background */
+}
+
+.skills {
+  
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color:black; /* White text color */
+  font-weight: bold;
+}
+
+.html {width: 90%; background-color: #4CAF50;} /* Green */
+.css {width: 80%; background-color: #2196F3;} /* Blue */
+.js {width: 80%; background-color: #f44336;} /* Red */
+.php {width: 80%; background-color: #808080;} /* Dark Grey */
+.c {width: 90%; background-color: #2196F3;} /* Blue */
+.java {width: 80%; background-color: #f44336;} /* Red */
+.python {width: 90%; background-color: #808080;} /* Dark Grey */
