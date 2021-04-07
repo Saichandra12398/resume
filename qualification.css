@@ -65,10 +65,68 @@ body{
   font-weight: bold;
 }
 
-.html {width: 90%; background-color: #4CAF50;} /* Green */
-.css {width: 80%; background-color: #2196F3;} /* Blue */
-.js {width: 80%; background-color: #f44336;} /* Red */
-.php {width: 80%; background-color: #808080;} /* Dark Grey */
-.c {width: 90%; background-color: #2196F3;} /* Blue */
-.java {width: 80%; background-color: #f44336;} /* Red */
-.python {width: 90%; background-color: #808080;} /* Dark Grey */
+.html {width: 90%; background-color: #4CAF50; animation: html 1s;} /* Green */
+.css {width: 80%; background-color: #2196F3; animation: css 2s;} /* Blue */
+.js {width: 80%; background-color: #f44336; animation: js 3s;} /* Red */
+.php {width: 80%; background-color: #808080; animation: php 4s;} /* Dark Grey */
+.c {width: 90%; background-color: #2196F3; animation: c 5s;} /* Blue */
+.java {width: 80%; background-color: #f44336; animation: java 6s;} /* Red */
+.python {width: 90%; background-color: #808080; animation: python 6s;} /* Dark Grey */
+
+@keyframes c {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width:90%;
+  } 
+}@keyframes java {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width:80%;
+  } 
+}@keyframes python {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width:90%;
+  } 
+}
+
+
+@keyframes php {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width:80%;
+  } 
+}
+@keyframes js {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width:80%;
+  } 
+}
+
+@keyframes html {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width:90%;
+  } 
+}
+@keyframes css {
+  0%{
+    width: 0%;
+  }
+  100%{
+    width:80%;
+  } 
+}
