@@ -6,6 +6,13 @@
     
 }
 
+.screen{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;
+}
+
 .headings1{
     /* font-size: 40px; */
 }
@@ -20,7 +27,7 @@
 }
 
 body{
-    border: 5px solid black;
+    /* border: 5px solid black; */
 }
 
 .firstdiv{

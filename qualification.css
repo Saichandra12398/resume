@@ -18,7 +18,7 @@
 }
 
 body{
-  border: 5px solid black;
+  /* border: 5px solid black; */
 }
 
 .firstdiv{
@@ -54,6 +54,13 @@ body{
   border-radius: 5px 5px 5px 5px;
   width: 100%; /* Full width */
   background-color: #ddd; /* Grey background */
+}
+
+.screen{
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid black;
 }
 
 .skills {
