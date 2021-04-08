@@ -2211,6 +2211,13 @@
             "keyStrokeTimeStamp": "Wed Apr 07 2021 20:35:33",
             "keyStrokeInfo": "center",
             "position": "13,37"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:54",
+            "keyStrokeInfo": "MAIN PAGE",
+            "position": "19,52"
         }
     ],
     "qualification.css": [
@@ -3846,6 +3853,13 @@
             "keyStrokeTimeStamp": "Thu Apr 08 2021 08:36:53",
             "keyStrokeInfo": "        ",
             "position": "6,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:01:02",
+            "keyStrokeInfo": "MAIN PAGE",
+            "position": "17,56"
         }
     ],
     "port.html": [
@@ -5597,6 +5611,13 @@
             "keyStrokeTimeStamp": "Thu Apr 08 2021 08:36:59",
             "keyStrokeInfo": "        ",
             "position": "6,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:01:07",
+            "keyStrokeInfo": "MAIN PAGE",
+            "position": "17,56"
         }
     ],
     "projects.html": [
@@ -15980,6 +16001,1917 @@
             "keyStrokeTimeStamp": "Wed Apr 07 2021 21:18:52",
             "keyStrokeInfo": "\\",
             "position": "53,17"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:44:44",
+            "keyStrokeInfo": "",
+            "position": "33,144"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:44:45",
+            "keyStrokeInfo": "9",
+            "position": "33,144"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:44:51",
+            "keyStrokeInfo": "",
+            "position": "33,145"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:44:51",
+            "keyStrokeInfo": "",
+            "position": "33,144"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:44:52",
+            "keyStrokeInfo": "8",
+            "position": "33,144"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:44:52",
+            "keyStrokeInfo": "5",
+            "position": "33,145"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:44:56",
+            "keyStrokeInfo": "",
+            "position": "33,145"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:44:57",
+            "keyStrokeInfo": "3",
+            "position": "33,145"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:45:10",
+            "keyStrokeInfo": "",
+            "position": "43,61"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:45:10",
+            "keyStrokeInfo": "5",
+            "position": "43,61"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:45:13",
+            "keyStrokeInfo": "",
+            "position": "43,77"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:45:14",
+            "keyStrokeInfo": "",
+            "position": "43,77"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:45:14",
+            "keyStrokeInfo": "2",
+            "position": "43,77"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:45:15",
+            "keyStrokeInfo": "5",
+            "position": "43,78"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:45:21",
+            "keyStrokeInfo": "",
+            "position": "43,61"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:45:21",
+            "keyStrokeInfo": "3",
+            "position": "43,61"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:45:24",
+            "keyStrokeInfo": "",
+            "position": "43,78"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:45:24",
+            "keyStrokeInfo": "7",
+            "position": "43,78"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:12",
+            "keyStrokeInfo": "\r\n        ",
+            "position": "8,84"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:13",
+            "keyStrokeInfo": "s",
+            "position": "9,9"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:13",
+            "keyStrokeInfo": "t",
+            "position": "9,10"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:13",
+            "keyStrokeInfo": "y",
+            "position": "9,11"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:14",
+            "keyStrokeInfo": "<style></style>",
+            "position": "9,9"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:15",
+            "keyStrokeInfo": "\r\n            \r\n        ",
+            "position": "9,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:18",
+            "keyStrokeInfo": ".",
+            "position": "10,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:18",
+            "keyStrokeInfo": "p",
+            "position": "10,14"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:18",
+            "keyStrokeInfo": "r",
+            "position": "10,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:19",
+            "keyStrokeInfo": "o",
+            "position": "10,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:19",
+            "keyStrokeInfo": "j",
+            "position": "10,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:20",
+            "keyStrokeInfo": "e",
+            "position": "10,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:20",
+            "keyStrokeInfo": "c",
+            "position": "10,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:20",
+            "keyStrokeInfo": "t",
+            "position": "10,20"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:20",
+            "keyStrokeInfo": "s",
+            "position": "10,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:21",
+            "keyStrokeInfo": "1",
+            "position": "10,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:21",
+            "keyStrokeInfo": "{}",
+            "position": "10,23"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:22",
+            "keyStrokeInfo": "\r\n                \r\n            ",
+            "position": "10,24"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:24",
+            "keyStrokeInfo": "b",
+            "position": "11,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:24",
+            "keyStrokeInfo": "a",
+            "position": "11,18"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:26",
+            "keyStrokeInfo": "background-color: ;",
+            "position": "11,17"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:29",
+            "keyStrokeInfo": "aquamarine",
+            "position": "11,35"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:46",
+            "keyStrokeInfo": "",
+            "position": "10,21"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:55",
+            "keyStrokeInfo": "\r\n                ",
+            "position": "10,23"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:55",
+            "keyStrokeInfo": "f",
+            "position": "11,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:56",
+            "keyStrokeInfo": "o",
+            "position": "11,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:56",
+            "keyStrokeInfo": "n",
+            "position": "11,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:56",
+            "keyStrokeInfo": "t",
+            "position": "11,20"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:56",
+            "keyStrokeInfo": " ",
+            "position": "11,21"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:57",
+            "keyStrokeInfo": "",
+            "position": "11,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:57",
+            "keyStrokeInfo": "-",
+            "position": "11,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:58",
+            "keyStrokeInfo": "w",
+            "position": "11,22"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:46:58",
+            "keyStrokeInfo": "font-weight: ;",
+            "position": "11,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:03",
+            "keyStrokeInfo": "bold",
+            "position": "11,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:06",
+            "keyStrokeInfo": "/* ",
+            "position": "11,17"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:11",
+            "keyStrokeInfo": "",
+            "position": "12,35"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:12",
+            "keyStrokeInfo": "",
+            "position": "12,34"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:13",
+            "keyStrokeInfo": " ",
+            "position": "12,34"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:19",
+            "keyStrokeInfo": "black",
+            "position": "12,35"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:25",
+            "keyStrokeInfo": "\r\n                ",
+            "position": "12,41"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:26",
+            "keyStrokeInfo": "c",
+            "position": "13,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:26",
+            "keyStrokeInfo": "o",
+            "position": "13,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:26",
+            "keyStrokeInfo": "l",
+            "position": "13,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:26",
+            "keyStrokeInfo": "o",
+            "position": "13,20"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:26",
+            "keyStrokeInfo": "r",
+            "position": "13,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:27",
+            "keyStrokeInfo": " ",
+            "position": "13,22"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:27",
+            "keyStrokeInfo": "",
+            "position": "13,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:28",
+            "keyStrokeInfo": ":",
+            "position": "13,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:29",
+            "keyStrokeInfo": "w",
+            "position": "13,23"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:29",
+            "keyStrokeInfo": "h",
+            "position": "13,24"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:29",
+            "keyStrokeInfo": "i",
+            "position": "13,25"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:29",
+            "keyStrokeInfo": "t",
+            "position": "13,26"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:30",
+            "keyStrokeInfo": "e",
+            "position": "13,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:30",
+            "keyStrokeInfo": ":",
+            "position": "13,28"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:33",
+            "keyStrokeInfo": "",
+            "position": "13,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:33",
+            "keyStrokeInfo": ";",
+            "position": "13,28"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:42",
+            "keyStrokeInfo": "",
+            "position": "12,35"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:43",
+            "keyStrokeInfo": "",
+            "position": "12,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:43",
+            "keyStrokeInfo": "b",
+            "position": "12,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:43",
+            "keyStrokeInfo": "l",
+            "position": "12,36"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:43",
+            "keyStrokeInfo": "u",
+            "position": "12,37"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:44",
+            "keyStrokeInfo": "blue",
+            "position": "12,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:49",
+            "keyStrokeInfo": " ",
+            "position": "13,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:50",
+            "keyStrokeInfo": " ",
+            "position": "13,24"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:47:52",
+            "keyStrokeInfo": ";",
+            "position": "12,39"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:48:00",
+            "keyStrokeInfo": "rgb(3, 3, 190)",
+            "position": "12,35"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:48:10",
+            "keyStrokeInfo": "rgb(40, 40, 83)",
+            "position": "12,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:48:27",
+            "keyStrokeInfo": "/* ",
+            "position": "12,17"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:48:30",
+            "keyStrokeInfo": "\r\n                ",
+            "position": "13,31"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:48:31",
+            "keyStrokeInfo": "background: url(bg.jpg) no-repeat;",
+            "position": "14,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:48:49",
+            "keyStrokeInfo": "/* ",
+            "position": "14,17"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:48:51",
+            "keyStrokeInfo": "",
+            "position": "12,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:48:51",
+            "keyStrokeInfo": "s",
+            "position": "12,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:48:55",
+            "keyStrokeInfo": "\\",
+            "position": "12,34"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:48:55",
+            "keyStrokeInfo": "",
+            "position": "12,34"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:48:55",
+            "keyStrokeInfo": "",
+            "position": "12,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:10",
+            "keyStrokeInfo": "M",
+            "position": "42,57"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:10",
+            "keyStrokeInfo": "A",
+            "position": "42,58"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:10",
+            "keyStrokeInfo": "J",
+            "position": "42,59"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:10",
+            "keyStrokeInfo": "O",
+            "position": "42,60"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:11",
+            "keyStrokeInfo": "R",
+            "position": "42,61"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:14",
+            "keyStrokeInfo": "P",
+            "position": "42,63"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:14",
+            "keyStrokeInfo": "R",
+            "position": "42,64"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:14",
+            "keyStrokeInfo": "O",
+            "position": "42,65"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:15",
+            "keyStrokeInfo": "J",
+            "position": "42,66"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:15",
+            "keyStrokeInfo": "E",
+            "position": "42,67"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:15",
+            "keyStrokeInfo": "C",
+            "position": "42,68"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:15",
+            "keyStrokeInfo": "T",
+            "position": "42,69"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:20",
+            "keyStrokeInfo": "M",
+            "position": "52,57"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:20",
+            "keyStrokeInfo": "I",
+            "position": "52,58"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:20",
+            "keyStrokeInfo": "N",
+            "position": "52,59"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:20",
+            "keyStrokeInfo": "I",
+            "position": "52,60"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:23",
+            "keyStrokeInfo": "P",
+            "position": "52,62"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:23",
+            "keyStrokeInfo": "R",
+            "position": "52,63"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:23",
+            "keyStrokeInfo": "O",
+            "position": "52,64"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:23",
+            "keyStrokeInfo": "J",
+            "position": "52,65"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:23",
+            "keyStrokeInfo": "E",
+            "position": "52,66"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:24",
+            "keyStrokeInfo": "C",
+            "position": "52,67"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:24",
+            "keyStrokeInfo": "T",
+            "position": "52,68"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:31",
+            "keyStrokeInfo": " ",
+            "position": "32,67"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:33",
+            "keyStrokeInfo": " ",
+            "position": "42,70"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:49:34",
+            "keyStrokeInfo": " ",
+            "position": "52,69"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:50:12",
+            "keyStrokeInfo": "t",
+            "position": "52,55"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:50:12",
+            "keyStrokeInfo": "e",
+            "position": "52,56"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:50:19",
+            "keyStrokeInfo": "x",
+            "position": "52,57"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:50:21",
+            "keyStrokeInfo": "text-decoration: ;",
+            "position": "52,55"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:50:27",
+            "keyStrokeInfo": "solid",
+            "position": "52,72"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:50:28",
+            "keyStrokeInfo": " ",
+            "position": "52,77"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:50:36",
+            "keyStrokeInfo": "",
+            "position": "52,71"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:50:39",
+            "keyStrokeInfo": "underline",
+            "position": "52,71"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:50:49",
+            "keyStrokeInfo": " ",
+            "position": "52,81"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:50:51",
+            "keyStrokeInfo": "F",
+            "position": "52,82"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:50:53",
+            "keyStrokeInfo": "font-family: ;",
+            "position": "52,82"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:50:57",
+            "keyStrokeInfo": "Georgia, 'Times New Roman', Times, serif",
+            "position": "52,95"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:51:53",
+            "keyStrokeInfo": "",
+            "position": "52,95"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:51:55",
+            "keyStrokeInfo": "c",
+            "position": "52,95"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:51:55",
+            "keyStrokeInfo": "u",
+            "position": "52,96"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:51:55",
+            "keyStrokeInfo": "r",
+            "position": "52,97"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:51:59",
+            "keyStrokeInfo": "'Courier New', Courier, monospace",
+            "position": "52,95"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:03",
+            "keyStrokeInfo": "cur",
+            "position": "52,95"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:06",
+            "keyStrokeInfo": "s",
+            "position": "52,98"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:06",
+            "keyStrokeInfo": "i",
+            "position": "52,99"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:06",
+            "keyStrokeInfo": "cursive",
+            "position": "52,95"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:11",
+            "keyStrokeInfo": "cursi",
+            "position": "52,95"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:12",
+            "keyStrokeInfo": "",
+            "position": "52,98"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:15",
+            "keyStrokeInfo": "",
+            "position": "52,55"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:24",
+            "keyStrokeInfo": "<",
+            "position": "52,82"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:25",
+            "keyStrokeInfo": "b",
+            "position": "52,83"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:25",
+            "keyStrokeInfo": "r",
+            "position": "52,84"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:26",
+            "keyStrokeInfo": ">",
+            "position": "52,85"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:36",
+            "keyStrokeInfo": "",
+            "position": "51,131"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:37",
+            "keyStrokeInfo": "",
+            "position": "51,130"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:38",
+            "keyStrokeInfo": "9",
+            "position": "51,130"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:38",
+            "keyStrokeInfo": "0",
+            "position": "51,131"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:42",
+            "keyStrokeInfo": "",
+            "position": "51,131"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:43",
+            "keyStrokeInfo": "2",
+            "position": "51,131"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:51",
+            "keyStrokeInfo": "7",
+            "position": "31,113"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:51",
+            "keyStrokeInfo": "",
+            "position": "31,113"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:52",
+            "keyStrokeInfo": "1",
+            "position": "31,113"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:52",
+            "keyStrokeInfo": "9",
+            "position": "31,114"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:52",
+            "keyStrokeInfo": "2",
+            "position": "31,115"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:57",
+            "keyStrokeInfo": "p",
+            "position": "31,116"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:52:57",
+            "keyStrokeInfo": "x",
+            "position": "31,117"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:01",
+            "keyStrokeInfo": "<",
+            "position": "32,80"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:01",
+            "keyStrokeInfo": "b",
+            "position": "32,81"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:02",
+            "keyStrokeInfo": "r",
+            "position": "32,82"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:02",
+            "keyStrokeInfo": "br",
+            "position": "32,81"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:04",
+            "keyStrokeInfo": ">",
+            "position": "32,83"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:08",
+            "keyStrokeInfo": "",
+            "position": "41,144"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:09",
+            "keyStrokeInfo": "9",
+            "position": "41,144"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:13",
+            "keyStrokeInfo": "<",
+            "position": "42,83"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:14",
+            "keyStrokeInfo": "b",
+            "position": "42,84"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:14",
+            "keyStrokeInfo": "r",
+            "position": "42,85"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:14",
+            "keyStrokeInfo": ">",
+            "position": "42,86"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:49",
+            "keyStrokeInfo": "S",
+            "position": "53,82"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:50",
+            "keyStrokeInfo": "e",
+            "position": "53,83"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:50",
+            "keyStrokeInfo": "",
+            "position": "53,83"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:50",
+            "keyStrokeInfo": "",
+            "position": "53,82"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:51",
+            "keyStrokeInfo": "s",
+            "position": "53,82"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:51",
+            "keyStrokeInfo": "e",
+            "position": "53,83"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:51",
+            "keyStrokeInfo": "a",
+            "position": "53,84"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:51",
+            "keyStrokeInfo": "s",
+            "position": "53,85"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:52",
+            "keyStrokeInfo": "o",
+            "position": "53,86"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:52",
+            "keyStrokeInfo": "n",
+            "position": "53,87"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:53",
+            "keyStrokeInfo": "a",
+            "position": "53,88"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:54",
+            "keyStrokeInfo": "l",
+            "position": "53,89"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:54",
+            "keyStrokeInfo": " ",
+            "position": "53,90"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:54",
+            "keyStrokeInfo": "c",
+            "position": "53,91"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:54",
+            "keyStrokeInfo": "r",
+            "position": "53,92"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:55",
+            "keyStrokeInfo": "o",
+            "position": "53,93"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:53:55",
+            "keyStrokeInfo": "p",
+            "position": "53,94"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:29",
+            "keyStrokeInfo": "\r\n                    ",
+            "position": "56,79"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:30",
+            "keyStrokeInfo": "                        ",
+            "position": "57,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:33",
+            "keyStrokeInfo": "&",
+            "position": "57,25"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:33",
+            "keyStrokeInfo": "n",
+            "position": "57,26"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:34",
+            "keyStrokeInfo": "v",
+            "position": "57,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:34",
+            "keyStrokeInfo": "s",
+            "position": "57,28"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:35",
+            "keyStrokeInfo": "",
+            "position": "57,28"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:35",
+            "keyStrokeInfo": "",
+            "position": "57,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:36",
+            "keyStrokeInfo": "b",
+            "position": "57,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:36",
+            "keyStrokeInfo": "b",
+            "position": "57,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:36",
+            "keyStrokeInfo": "s",
+            "position": "57,29"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:36",
+            "keyStrokeInfo": "",
+            "position": "57,29"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:37",
+            "keyStrokeInfo": "",
+            "position": "57,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:37",
+            "keyStrokeInfo": "s",
+            "position": "57,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:38",
+            "keyStrokeInfo": "&nbsp;",
+            "position": "57,25"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:42",
+            "keyStrokeInfo": "background: url(bg.jpg) no-repeat;",
+            "position": "57,31"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:43",
+            "keyStrokeInfo": "",
+            "position": "57,31"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:49",
+            "keyStrokeInfo": "                    <span style=\"font-weight: bold;\">Description : </span><br>\r\n",
+            "position": "57,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:49",
+            "keyStrokeInfo": "                    ",
+            "position": "58,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:49",
+            "keyStrokeInfo": "                    <span style=\"font-weight: bold;\">Description : </span><br>\r\n",
+            "position": "58,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:50",
+            "keyStrokeInfo": "",
+            "position": "58,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:51",
+            "keyStrokeInfo": "                        ",
+            "position": "58,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:51",
+            "keyStrokeInfo": "",
+            "position": "57,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:57",
+            "keyStrokeInfo": "&nbsp;",
+            "position": "57,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:57",
+            "keyStrokeInfo": "&nbsp;",
+            "position": "57,37"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:54:57",
+            "keyStrokeInfo": "&nbsp;",
+            "position": "57,43"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:02",
+            "keyStrokeInfo": "&nbsp;",
+            "position": "57,49"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:03",
+            "keyStrokeInfo": "&nbsp;",
+            "position": "57,55"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:03",
+            "keyStrokeInfo": "&nbsp;",
+            "position": "57,61"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:03",
+            "keyStrokeInfo": "&nbsp;",
+            "position": "57,67"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:19",
+            "keyStrokeInfo": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+            "position": "47,25"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:19",
+            "keyStrokeInfo": "                    ",
+            "position": "47,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:35",
+            "keyStrokeInfo": "",
+            "position": "47,57"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:41",
+            "keyStrokeInfo": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+            "position": "47,57"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:41",
+            "keyStrokeInfo": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+            "position": "47,105"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:41",
+            "keyStrokeInfo": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+            "position": "47,153"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:42",
+            "keyStrokeInfo": "",
+            "position": "47,153"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:42",
+            "keyStrokeInfo": "",
+            "position": "47,105"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:45",
+            "keyStrokeInfo": "",
+            "position": "47,57"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:48",
+            "keyStrokeInfo": "&nbsp;&nbsp;",
+            "position": "47,57"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:54",
+            "keyStrokeInfo": "",
+            "position": "41,145"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:55:55",
+            "keyStrokeInfo": "4",
+            "position": "41,145"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:00",
+            "keyStrokeInfo": "",
+            "position": "41,145"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:00",
+            "keyStrokeInfo": "5",
+            "position": "41,145"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:10",
+            "keyStrokeInfo": "",
+            "position": "41,145"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:10",
+            "keyStrokeInfo": "",
+            "position": "41,144"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:11",
+            "keyStrokeInfo": "",
+            "position": "41,143"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:17",
+            "keyStrokeInfo": "2",
+            "position": "41,143"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:18",
+            "keyStrokeInfo": "0",
+            "position": "41,144"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:18",
+            "keyStrokeInfo": "0",
+            "position": "41,145"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:32",
+            "keyStrokeInfo": "1",
+            "position": "41,143"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:32",
+            "keyStrokeInfo": "9",
+            "position": "41,144"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:32",
+            "keyStrokeInfo": "3",
+            "position": "41,145"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:48",
+            "keyStrokeInfo": "",
+            "position": "47,165"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:48",
+            "keyStrokeInfo": "",
+            "position": "47,164"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:49",
+            "keyStrokeInfo": " ",
+            "position": "47,164"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:49",
+            "keyStrokeInfo": "l",
+            "position": "47,165"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:49",
+            "keyStrokeInfo": "i",
+            "position": "47,166"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:50",
+            "keyStrokeInfo": "k",
+            "position": "47,167"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:56:50",
+            "keyStrokeInfo": "e",
+            "position": "47,168"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:57:27",
+            "keyStrokeInfo": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+            "position": "37,21"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:57:50",
+            "keyStrokeInfo": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+            "position": "34,72"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:57:59",
+            "keyStrokeInfo": "&nbsp;&nbsp;",
+            "position": "34,120"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:58:09",
+            "keyStrokeInfo": "",
+            "position": "34,120"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 08:58:10",
+            "keyStrokeInfo": "",
+            "position": "34,72"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:29",
+            "keyStrokeInfo": "M",
+            "position": "25,52"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:30",
+            "keyStrokeInfo": "a",
+            "position": "25,53"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:32",
+            "keyStrokeInfo": "",
+            "position": "25,53"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:32",
+            "keyStrokeInfo": "",
+            "position": "25,52"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:33",
+            "keyStrokeInfo": "Ma",
+            "position": "25,52"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:33",
+            "keyStrokeInfo": "PORTFOLIO",
+            "position": "25,52"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:38",
+            "keyStrokeInfo": "M",
+            "position": "25,52"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:38",
+            "keyStrokeInfo": "a",
+            "position": "25,53"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:41",
+            "keyStrokeInfo": "",
+            "position": "25,53"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:41",
+            "keyStrokeInfo": "",
+            "position": "25,52"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:43",
+            "keyStrokeInfo": "M",
+            "position": "25,52"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:43",
+            "keyStrokeInfo": "A",
+            "position": "25,53"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:43",
+            "keyStrokeInfo": "I",
+            "position": "25,54"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:43",
+            "keyStrokeInfo": "N",
+            "position": "25,55"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:43",
+            "keyStrokeInfo": " ",
+            "position": "25,56"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:44",
+            "keyStrokeInfo": "P",
+            "position": "25,57"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:44",
+            "keyStrokeInfo": "A",
+            "position": "25,58"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:44",
+            "keyStrokeInfo": "G",
+            "position": "25,59"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Apr 08 2021 09:00:44",
+            "keyStrokeInfo": "E",
+            "position": "25,60"
         }
     ]
 }
