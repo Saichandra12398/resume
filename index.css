@@ -6,6 +6,9 @@
     
 }
 
+body{
+    background: url(bg.jpg) no-repeat;
+}
 .screen{
     width: 900px;
     margin-left: auto;
@@ -17,14 +20,14 @@
     /* font-size: 40px; */
 }
 .links:hover{
-    color: red
+    color: red;
 }
 
-.profilepic{
+/* .profilepic{
     position:relative;
     border: 1px solid black;
     
-}
+} */
 
 body{
     /* border: 5px solid black; */
@@ -45,15 +48,19 @@ body{
 .hobby{
     border: 1px solid black;
 }
-.personals{
+
+.per{
+    color:black;
+}
+/* .personals{
    
     /* border: 1px solid black; */
-    position: absolute;
-    font-weight:100;
+    /* position: absolute; */
+    /* font-weight:100; */
     /* @media (min-height:500) {
         font: size 12px;
     } */
-    font-size: 18px;
-    top: 20%;
-    left: 30%;
-}
+    /* font-size: 18px; */
+    /* top: 20%; */
+    /* left: 30%; */
+/* } */ 

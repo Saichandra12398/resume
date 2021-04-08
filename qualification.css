@@ -18,7 +18,7 @@
 }
 
 body{
-  /* border: 5px solid black; */
+  background: url(bg.jpg) no-repeat;
 }
 
 .firstdiv{
@@ -49,7 +49,7 @@ body{
 * {box-sizing:border-box}
 
 /* Container for skill bars */
-.container {
+.container1 {
   border: 2px solid black;
   border-radius: 5px 5px 5px 5px;
   width: 100%; /* Full width */
